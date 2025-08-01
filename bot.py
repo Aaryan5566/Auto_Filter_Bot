@@ -1,7 +1,7 @@
 import sys
 import glob
 import importlib
-from bot.modules import request
+from modules import request
 from pathlib import Path
 from pyrogram import Client, idle, __version__
 from pyrogram.raw.all import layer
