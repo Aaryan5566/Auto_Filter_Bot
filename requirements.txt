@@ -10,6 +10,7 @@ shortzy
 datetime
 pytz
 aiohttp
+tmdbsimple
 
 # Master tools
 PyLeaves==1.0.2
